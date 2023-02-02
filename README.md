@@ -2,7 +2,7 @@
 
 ## Overview
 #### The days of paying high prices for AI-generated images are over
-Use this helper tool to 
+Use this helper tool to generate ai images based on your own description while simultaneously saving the images to your device. Price is <1¢ USD per image, so...go to town. 
 
 #### Features
 - Sends a request to openai with a description of your choice
@@ -18,6 +18,7 @@ Use this helper tool to
 - "Our office is finally complete now that we have a life-sized poster of 'Synergy Dave' 'segwaying' into the 'mandatory wellness seminar'. He was very pleasantly Y-Surprised upon seeing it in our `Corporate Head-Q-uarters`."
 - "I have always wondered what an aerial view of me chained to a mossy tree trunk with eyes, a mouthful of ants, and harmful spiders would look like"
 - "I accidentally deleted all of the pictures I took with my friends at the fjords, but the **The `Virus-X Y-Surprise` AI Image Create-and-Save Starter Pack** saved the day! All I had to do was name the specific fjords and decsribe all my friends, and the fjordsing-photos are 'baq' and better than ever."
+- "Who knew that you could spell the word 'Oprah' with 32 characters?"
 - "Satisfaqtion indeed!"
 - "People do!"
 - "2 out of 4 dentists approve!"
