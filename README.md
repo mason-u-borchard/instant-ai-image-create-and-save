@@ -121,7 +121,21 @@ DESC="Which random British guy am i? 'Mark Twain!' 'Gordon Ramsay!' 'Travis Bark
 path="/Users/YOUR_PATH_PLZ_INCLUDE_TRAILING_SLASH/instant-ai-image-create-and-save/"
 ```
 
-##### 2. Run file
+##### 2. Make an alias for the command (optional)
+```sh
+● ● λ alias xsurprise='python FULLPATH_TO_CREATEIMAGE_PY'
+# example path
+● ● λ alias xsurprise='python /Users/masonborchard/instant-ai-image-create-and-save/createimage.local.py'
+```
+
+##### 3. Run file
+If you made an alias
+```sh
+● ● λ xsurprise
+```
+
+If you did not make an alias
 ```sh
 ● ● λ python createimage.py
 ```
+Note: you may need to use the `python3` command instead of the `python` command
